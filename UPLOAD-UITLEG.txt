@@ -1,0 +1,10 @@
+UPLOADINSTRUCTIE
+
+1. Pak dit ZIP-bestand uit.
+2. Upload alle 13 HTML-bestanden in dezelfde hoofdmap als index.html, style.css, main.js en logo.svg.
+3. Verwijder geen bestaande bestanden.
+4. Voeg de pagina's later toe aan sitemap.xml en aan een centrale werkgebied-pagina.
+
+Inhoud:
+Bussum, Naarden, Huizen, Laren, Blaricum, Eemnes, Loosdrecht, Kortenhoef,
+'s-Graveland, Nederhorst den Berg, Muiden, Muiderberg en Weesp.
