@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 120" role="img" aria-labelledby="title desc">
+<title id="title">Kompas Bouwadvies</title>
+<desc id="desc">Kompas- en huisvorm met de tekst Kompas Bouwadvies.</desc>
+<defs>
+  <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#d9b56d"/>
+    <stop offset="1" stop-color="#a97928"/>
+  </linearGradient>
+</defs>
+<g transform="translate(6 7)">
+  <circle cx="53" cy="53" r="45" fill="none" stroke="url(#gold)" stroke-width="4"/>
+  <path d="M53 13 L62 44 L93 53 L62 62 L53 93 L44 62 L13 53 L44 44 Z" fill="url(#gold)" opacity=".95"/>
+  <path d="M27 55 L53 33 L79 55 V82 H61 V64 H45 V82 H27 Z" fill="#172033" stroke="#fff" stroke-width="2"/>
+  <circle cx="53" cy="53" r="4" fill="#fff"/>
+</g>
+<text x="115" y="56" font-family="Arial, Helvetica, sans-serif" font-weight="800" font-size="42" fill="#172033" letter-spacing="1">KOMPAS</text>
+<text x="116" y="92" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="25" fill="#b88a3b" letter-spacing="4">BOUWADVIES</text>
+</svg>
